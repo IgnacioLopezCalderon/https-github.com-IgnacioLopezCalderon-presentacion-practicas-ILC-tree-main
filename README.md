@@ -44,7 +44,7 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/OverDev.png" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
 | <img src="img/Rem Experience.png" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | *pendiente* |
-| <img src="img/" height="32" alt="" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
+| <img src="img/iescampanillas.jpg" height="32" alt="IESCampanillas" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
 
 
 <a id="sec-tiempo"></a>
