@@ -42,9 +42,9 @@ Cuando el repositorio esté listo, **sustituye** en la **fila de tu empresa** la
 | <img src="img/accenture.png" height="22" alt="Accenture" /> | Accenture | López Calderón, Ignacio| *pendiente* |
 | <img src="img/uma.png" height="22" alt="UMA" /> | UMA | Mayger Giralde, Mateo Richard <br> | *pendiente* |
 | <img src="img/" height="22" alt="Over-Dev" /> | Over-Dev | Navajas García, Gonzalo <br> | *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
+| <img src="img/" height="32" alt="" /> | REM Experience  | Palomares Rodríguez, Manuel <br> Romero Castillo, Javier | *pendiente* |
 |  <img src="img/salvador.jpeg" height="22" alt="Panadería Salvador" /> | Panadería Confitería Salvador, Sl | Rivas García, David | *pendiente* |
-| <img src="img/erasmusplus.jpg" height="32" alt="Erasmus" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
+| <img src="img/" height="32" alt="" /> | IES Campanillas |Trujillo Fernández, Daniel | *pendiente* |
 
 
 <a id="sec-tiempo"></a>
